@@ -1,2 +1,5 @@
 # Gpa-Calculator
-Easy to use Simple Calculator 
+
+Simple Calculator
+
+Easy to use  
